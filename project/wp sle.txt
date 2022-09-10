@@ -1,0 +1,33 @@
+It is easy
+MySQL is an easy to use and simple database system, but in terms of productivity, it is also an efficient database software and is much 
+less complex to set up and administer. MySQL Workbench facilitates users to manage databases and layout databases using the graphical user interface. 
+
+
+it is secure
+MySQL can be distributed over the network and databases can be accessed from anywhere on the Internet. Only authorized users can access 
+the database by giving proper credentials. To provide additional security, MySQL supports encryption technology to secure its connections using the Secure Sockets Layer (SSL) protocol.
+
+
+client server architechture
+MySQL is based on client-server architecture and can be accessed from anywhere as it can work on distributed networks. Every client machine can communicate to the server using an internet connection. The server processes client requests and returns the desired output back to the client machine. In MySQL, it is not necessary for the client to be on the same system as the server. Clients can send requests to remote servers using an internet connection, but the important thing is that the server should be in a running state at that time.
+
+it is scalable
+Scalability refers to the ability of systems to work easily with small amounts of data, large amounts of data, clusters of machines, and so on. MySQL server was developed to work 
+with large databases. tutotialspoint
+
+
+compatible on many os
+MySQL is compatible to run on many operating systems, like Novell NetWare, Windows* Linux*, many varieties of UNIX* (such as Sun* Solaris*, AIX, and DEC* UNIX), OS/2, FreeBSD*, and others. MySQL also provides a facility that the clients can run on the same computer as the server or on another computer (communication via a local network or the Internet).
+
+
+Allows rollback
+MySQL allows transactions to be rolled back, commit, and crash recovery.
+
+
+high performance
+Just because of its efficient architecture, MySQL is faster, robust, and cheaper. Its server responds with high-performance resultset in comparison to other databases without compromising with essential functions of the software. It has fast-loading utilities due to the different cache memories. MySQL makes use of Stored procedures and Triggers that allow the users to give higher performance.
+
+Reliable and fast
+MySQL stores data efficiently in the database ensuring that it should not contain redundant data. MySQL is built on an engine, which is very well optimized for online transaction processing (OLTP) and very good at maximizing the number of transactions per second in your database. As MySQL supports multithreading, it responds to each request with the desired result very quickly by utilizing all the CPU power available. 
+
+
